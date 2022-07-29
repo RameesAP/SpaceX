@@ -1,0 +1,177 @@
+
+.header{
+    position: fixed;
+    width: 100%;
+    height: 200px;
+    background-color: transparent;
+    display: flex;
+    justify-content:center;
+}
+.logo{
+    position: absolute;
+   bottom: 10px;
+    height: 250px;
+    left: 40px;
+   
+}
+.first-con{
+    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.second-layout{
+    height: 657px;
+}
+.first-layout{
+    height: 657px;
+}
+.third-layout{
+    height: 657px;
+}
+.fourth-layout{
+    height: 657px;
+}
+.footer{
+    
+    width: 100%;
+    height: 100px;
+    background-color:black ;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+.head1{
+    font-size: 23px;
+    font-style:Arial,Verdana,sans-serif;    
+}
+.head{
+    font-style:Arial,Verdana,sans-serif; 
+    display: flex;
+  bottom: 7em;
+    position: absolute;
+    
+    
+}
+
+.second-con{
+    width: 500px;
+    position: absolute;
+    top: 1000px;
+    left: 70px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.head3{
+    font-size: 23px;
+    font-style:Arial,Verdana,sans-serif;    
+}
+.head2{
+    font-style:Arial,Verdana,sans-serif; 
+    position: absolute;
+    bottom: 110px;
+    
+}
+.third-con{
+    width: 500px;
+    position: absolute;
+    top: 1700px;
+    left: 70px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.head4{
+    font-size: 23px;
+}
+.fourth-con{
+    width: 500px;
+    position: absolute;
+    top: 2300px;
+    left: 70px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
+    
+}
+.head5{
+    font-size: 23px;
+}
+.list1{
+    font-size: 10px;
+    word-spacing: 28px;
+    color: white;
+}
+.list1 a{
+    color: white;
+}
+
+.list1 a:hover{
+    color: #979797;
+}
+a{
+    text-decoration: none;
+}
+.list2{
+    
+    font: 12px/20px D-DIN-Regular,Arial,Verdana,sans-serif;
+    word-spacing: 28px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: 400;
+    
+}
+.list2 a{
+    color: white;
+}
+.list2 a:hover{
+    text-decoration: underline;
+}
+.shop{
+    font: 13px/19px D-DIN-Regular,Arial,Verdana,sans-serif;
+    margin-top: 40px;
+    display: flex;
+    justify-content:right;
+    position: absolute;
+    right: 100px;
+    
+}
+.sha a{
+color: white;
+   
+}
+.sha a:hover{
+    text-decoration: underline;
+}
+.ham{
+    
+    position: absolute;
+    left: 70px;
+}
+.berg{
+    width: 19px;
+}
